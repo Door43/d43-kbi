@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbi:home|Door43 (kbi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbi|d43-kbi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbi/archive/master.zip|d43-kbi.zip]]
+
+**Recent Changes**
+{{changes>ns = kbi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbi|Ethnologue data]]
+
